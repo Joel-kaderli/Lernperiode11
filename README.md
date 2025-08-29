@@ -9,4 +9,8 @@ Zurzeit bin Ich gut drin, Ich bewerbe mich fleissig und habe am 20.08.2025, mein
 
 # Arbeitspakete 22.08.2025
 - [ ] Bewerbungen machen für Jahres Praktikum
-- [ ] C# OOP und Grundwissen auffrischen ist mein neues Projekt in der Nächsten Zeit 
+- [ ] C# OOP und Grundwissen auffrischen ist mein neues Projekt in der Nächsten Zeit
+
+# Arbeitspakete
+- [ ] C# OOP und Grundwissen auffrischen weiter machen 
+- [ ] etwas für die Bewerbung machen BSI und FHNW
